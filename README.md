@@ -1,2 +1,2 @@
-# JavaScript
-Solutions for javascript tasks.
+
+Solutions for popular JavaScript tasks.
